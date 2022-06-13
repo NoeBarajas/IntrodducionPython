@@ -1,6 +1,7 @@
 # Primera vez usando Python
 
 Gracias a Innovación Virtual
+----------------
 **Saludos amigos**
 
-![](Imagenes\README.png)
+![Logo Pinguino](Imagenes\README.png)
