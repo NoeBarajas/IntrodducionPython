@@ -4,4 +4,4 @@ Gracias a Innovación Virtual
 ----------------
 **Saludos amigos**
 
-![Logo Pinguino](Imagenes\README.png)
+![Logo Pinguino](https://github.com/NoeBarajas/IntrodducionPython/blob/main/Imagenes/README.png)
